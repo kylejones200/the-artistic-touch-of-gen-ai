@@ -1,141 +1,20 @@
+---
+Author: Kyle Jones Publication_date: November 13, 2023 Canonical_link: "https://medium.com/@kyle-t-jones/the-artistic-touch-of-gen-ai-967b350da57e" Export_from_medium_date: November 10, 2025
+---
 # The Artistic Touch of Gen AI How Generative AI is changing Creative Industries like Fashion, Music,
 and Design
 
-### The Artistic Touch of Gen AI
-#### How Generative AI is changing Creative Industries like Fashion, Music, and Design
-Generative AI has become a disruptive force in the creative industry,
-opening up new possibilities in the fields of fashion, music creation,
-and design. We'll examine the significant effects of generative AI in
-several artistic fields in this blog article, highlighting practical
-uses that are changing the nature of artistic expression. We'll also
-give a preview of the resources and tools that designers and artists can
-use to easily incorporate Generative AI into their work.
+### The Artistic Touch of Gen AI #### How Generative AI is changing Creative Industries like Fashion, Music, and Design Generative AI has become a disruptive force
 
+in the creative industry, opening up new possibilities in the fields of fashion, music creation, and design. We'll examine the significant effects of generative AI in several artistic fields in this blog article, highlighting practical uses that are changing the nature of artistic expression. We'll also give a preview of the resources and tools that designers and artists can use to easily incorporate Generative AI into their work. ### Using Generative AI to Unleash Creativity Across the world, designers and artists are finding inspiration in generative AI. Here's how it's altering the creative landscape and bringing innovation to life. 1. [Graphic Design Automated: It may be difficult for startups and small enterprises to hire a full-fledged graphic designer on a low budget. In response, generative AI provides original designs or even design templates based on particular inputs. Imagine providing your brand's color, logo, and a quick description to an AI system, and it will create a stunning banner ad or social media image.] 2. [Transfer of Style: With this fascinating use of generative AI, designers and artists can alter one image by applying its style to another. For example, generative artificial intelligence (AI) enables you to have your photo recreated in the style of Van Gogh's "Starry Night."] 3. [Using 3D models:
 
-<figcaption>Photo by <a
-href="https://unsplash.com/@alinnnaaaa?utm_source=medium&amp;utm_medium=referral"
-class="markup--anchor markup--figure-anchor"
-data-href="https://unsplash.com/@alinnnaaaa?utm_source=medium&amp;utm_medium=referral"
-rel="photo-creator noopener" target="_blank">Alina Grubnyak</a> on <a
-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
-class="markup--anchor markup--figure-anchor"
-data-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral"
-rel="photo-source noopener" target="_blank">Unsplash</a></figcaption>
+Using specific parameters, generative AI allows architects and product designers to swiftly produce 3D models. By using these models as first draughts, many hours that would have been spent creating from scratch can be saved.] 4. [Compositing Music: Visual inventiveness is not the only application of generative AI. Music tracks can now be automatically created with emerging tools. Generative AI can create a whole musical composition by importing a genre, an atmosphere, or even a straightforward tune. This provides a foundation for artists to work from and develop upon.] 5. [Design for Fashion: Generative AI can be used by fashion designers to create original textures, patterns, or even whole outfit designs. Designers can gain a jump start on their next masterpiece by feeding the AI references from the past, present, and rules.]
+### Practical Instances of Generative AI in Use Generative AI has an impact that goes beyond theory since it actively influences designers' and artists' creative output. Here are
 
+few instances from everyday life that demonstrate its transforming power: 1. [**AIVA:** Using AI to Compose a Symphony: AIVA, an AI-powered composer, creates unique works and analyses classical compositions to produce stunning symphonies. AIVA can work with composers to speed up the composition process and discover new musical avenues.] 2. [**DeepArt.io:** Creating Art from Photos: DeepArt.io turns regular images into artworks influenced by the styles of well-known artists using generative artificial intelligence. It demonstrates how artificial intelligence can help close the gap between artistic inspiration and individual expression.] 3. [**NVIDIA GauGAN:** AI-Powered Painting: NVIDIA GauGAN is an AI tool that creates realistic artwork from rough sketches. Artists are able to conceive concepts fast and even try out several techniques.]
+### Artificial Intelligence Tools and Resources There is a wealth of tools and resources available to artists and designers who are keen to use generative AI: 1.  [**Runway ML** is a user-friendly platform
 
-### Using Generative AI to Unleash Creativity
-Across the world, designers and artists are finding inspiration in
-generative AI. Here's how it's altering the creative landscape and
-bringing innovation to life.
+that makes it easier to incorporate AI models into artistic endeavours. It provides resources for making music, art, and interactive experiences.] 2. [**Google's Magenta** is a group of open-source initiatives to investigate the use of AI in music and art creation. For musicians and artists, it offers a multitude of resources.] 3. [**Dream Maker with Depth** is an online tool that lets you create dreamy artworks out of pictures. If you're interested in learning more about AI-generated art, this is a great place to start.] 4. [Music Ampere is an AI composer designed to make it easier for artists to compose music. It's an easy-to-use tool for coming up with creative music.]
+### A Limitless Wellspring of Originality Generative artificial intelligence is an endless source of unrestricted creation. Whatever your artistic medium, whether it is fashion, music, or graphic design, Generative AI is a muse who takes you beyond boundaries and into a world of boundless creativity. More than merely a tool, generative AI opens doors to previously unimaginable realms. It enables graphic designers to create visually stunning works of art
 
-1.  [Graphic Design Automated: It may be difficult for startups and
-    small enterprises to hire a full-fledged graphic designer on a low
-    budget. In response, generative AI provides original designs or even
-    design templates based on particular inputs. Imagine providing your
-    brand's color, logo, and a quick description to an AI system, and it
-    will create a stunning banner ad or social media image.]
-2.  [Transfer of Style: With this fascinating use of generative AI,
-    designers and artists can alter one image by applying its style to
-    another. For example, generative artificial intelligence (AI)
-    enables you to have your photo recreated in the style of Van Gogh's
-    "Starry Night."]
-3.  [Using 3D models: Using specific parameters, generative AI allows
-    architects and product designers to swiftly produce 3D models. By
-    using these models as first draughts, many hours that would have
-    been spent creating from scratch can be saved.]
-4.  [Compositing Music: Visual inventiveness is not the only application
-    of generative AI. Music tracks can now be automatically created with
-    emerging tools. Generative AI can create a whole musical composition
-    by importing a genre, an atmosphere, or even a straightforward tune.
-    This provides a foundation for artists to work from and develop
-    upon.]
-5.  [Design for Fashion: Generative AI can be used by fashion designers
-    to create original textures, patterns, or even whole outfit designs.
-    Designers can gain a jump start on their next masterpiece by feeding
-    the AI references from the past, present, and rules.]
-
-### Practical Instances of Generative AI in Use
-Generative AI has an impact that goes beyond theory since it actively
-influences designers' and artists' creative output. Here are few
-instances from everyday life that demonstrate its transforming power:
-
-1.  [**AIVA:** Using AI to Compose a Symphony: AIVA, an AI-powered
-    composer, creates unique works and analyses classical compositions
-    to produce stunning symphonies. AIVA can work with composers to
-    speed up the composition process and discover new musical
-    avenues.]
-2.  [**DeepArt.io:** Creating Art from Photos: DeepArt.io turns regular
-    images into artworks influenced by the styles of well-known artists
-    using generative artificial intelligence. It demonstrates how
-    artificial intelligence can help close the gap between artistic
-    inspiration and individual expression.]
-3.  [**NVIDIA GauGAN:** AI-Powered Painting: NVIDIA GauGAN is an AI tool
-    that creates realistic artwork from rough sketches. Artists are able
-    to conceive concepts fast and even try out several
-    techniques.]
-
-### Artificial Intelligence Tools and Resources
-There is a wealth of tools and resources available to artists and
-designers who are keen to use generative AI:
-
-1.  [**Runway ML** is a user-friendly platform that makes it easier to
-    incorporate AI models into artistic endeavours. It provides
-    resources for making music, art, and interactive
-    experiences.]
-2.  [**Google's Magenta** is a group of open-source initiatives to
-    investigate the use of AI in music and art creation. For musicians
-    and artists, it offers a multitude of resources.]
-3.  [**Dream Maker with Depth** is an online tool that lets you create
-    dreamy artworks out of pictures. If you're interested in learning
-    more about AI-generated art, this is a great place to start.]
-4.  [Music Ampere is an AI composer designed to make it easier for
-    artists to compose music. It's an easy-to-use tool for coming up
-    with creative music.]
-
-### A Limitless Wellspring of Originality
-Generative artificial intelligence is an endless source of unrestricted
-creation. Whatever your artistic medium, whether it is fashion, music,
-or graphic design, Generative AI is a muse who takes you beyond
-boundaries and into a world of boundless creativity.
-
-More than merely a tool, generative AI opens doors to previously
-unimaginable realms. It enables graphic designers to create visually
-stunning works of art that were previously thought to be impossible.
-With a few keystrokes and instructions, it creates designs that redefine
-the whole notion of artistic possibilities by fusing the commonplace
-with the exceptional.
-
-Generative AI is like a symphony of creation for musicians. It gives
-life to harmonies and melodies that speak to the soul. It is a
-collaborator that defies convention and the passage of time, crafting
-unique compositions that unite classical and contemporary styles and
-pushing the envelope of human creativity.
-
-When it comes to fashion, Generative AI transforms into a visionary
-designer, creating outfits that straddle the boundary between the
-avant-garde and the traditional. It creates patterns and textures that
-go against accepted conventions, giving designers an endlessly creative
-palette.
-
-The ability of generative AI to inspire artists and makers is what
-really sets it apart. It's not only about task automation; it's also
-about unleashing human potential. It's a request to explore, experiment,
-and express in ways that were previously inconceivable.
-
-Generative AI turns becomes the spark that ignites your most creative
-fantasies as you explore this universe of boundless innovation. It
-challenges your preconceptions, pushes the boundaries of your
-discipline, and redefines what's possible. It's an adventure of
-boundless creativity where the possibilities are as endless as the
-universe and your imagination reigns supreme.
-
-Generative AI allows us to enter a world of limitless creativity. It
-helps us release our imagination's full potential. And, it can take us
-on an incredible journey through art and design.
-::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
-[November 13, 2023](https://medium.com/p/967b350da57e).
-
-[Canonical
-link](https://medium.com/@kyle-t-jones/the-artistic-touch-of-gen-ai-967b350da57e)
-
-Exported from [Medium](https://medium.com) on November 10, 2025.
+that were previously thought to be impossible. With a few keystrokes and instructions, it creates designs that redefine the whole notion of artistic possibilities by fusing the commonplace with the exceptional. Generative AI is like a symphony of creation for musicians. It gives life to harmonies and melodies that speak to the soul. It is a collaborator that defies convention and the passage of time, crafting unique compositions that unite classical and contemporary styles and pushing the envelope of human creativity. When it comes to fashion, Generative AI transforms into a visionary designer, creating outfits that straddle the boundary between the avant-garde and the traditional. It creates patterns and textures that go against accepted conventions, giving designers an endlessly creative palette. The ability of generative AI to inspire artists and makers is what really sets it apart. It's not only about task automation; it's also about unleashing human potential. It's a request to explore, experiment, and express in ways that were previously inconceivable. Generative AI turns becomes the spark that ignites your most creative fantasies as you explore this universe of boundless innovation. It challenges your preconceptions, pushes the boundaries of your discipline, and redefines what's possible. It's an adventure of boundless creativity where the possibilities are as endless as the universe and your imagination reigns supreme. Generative AI allows us to enter a world of limitless creativity. It helps us release our imagination's full potential. And, it can take us on an incredible journey through art and design.
